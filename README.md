@@ -1,6 +1,7 @@
 # Hello World !👋
 
-Étudiante à [L'École de la Plateforme](https://www.laplateforme.io/) depuis octobre 2024. Mon aventure dans le développement web a commencé ici.
+Mon aventure dans le développement commence ici. 
+
 ---
 
 ## 🙋‍♀️ À propos de moi
