@@ -1,15 +1,15 @@
-# Hello World !👋
+<h1 align="center"> Hello World !👋</h1>
 
-Mon aventure dans le développement commence ici. 
+<p>Mon aventure dans le développement commence ici !</p>
 
 ---
 
 ## 🙋‍♀️ À propos de moi
 
-- 🎓 Étudiante en développement web.  
-- 📅 En formation depuis octobre 2024 à L'École de la Plateforme.  
-- 💻 En cours d’apprentissage : **HTML**, **CSS**, **Python** (et bientôt **JavaScript**).  
-- 🚀 Objectif : créer des projets uniques et renforcer mes compétences en programmation.  
+- 🎓 Étudiante en développement web
+- 📅 En formation depuis octobre 2024 à L'École de la Plateforme. 
+- 💻 En cours d’apprentissage : **HTML**, **CSS**, **Python** (et bientôt **JavaScript**)
+- 🚀 Objectif : créer des projets uniques et renforcer mes compétences en programmation. 
 
 ---
 
@@ -17,7 +17,7 @@ Mon aventure dans le développement commence ici.
 
 - **Langages appris** : HTML, CSS
 - **Outils utilisés** : Visual Studio Code, Git, GitHub, Figma, Canva, Obsidian
-- **Prochaines étapes** : Découvrir JavaScript et commencer à coder des projets interactifs.  
+- **Prochaines étapes** : Découvrir JavaScript et commencer à coder des projets interactifs.
 
 ---
 
