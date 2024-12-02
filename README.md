@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World !👋</h1>
 
-<p>Mon aventure dans le développement commence ici !</p>
+<p>Developpeuse on the rise ☀️</p>
 
 ---
 
